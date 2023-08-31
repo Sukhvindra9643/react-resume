@@ -12,7 +12,7 @@ const Contacts = () => {
           <AiOutlineMail style={{fontSize:"20px"}}/>
           <p>sukhvindrasingh8670@gmail.com</p>
         </div>
-        <div style={{display:"flex",lineHeight:"10px",justifyContent:"center",alignItems:"center",gap:10,height:"20px"}}>
+        <div style={{display:"flex",lineHeight:"10px",alignItems:"center",gap:10,height:"20px"}}>
           <FaMapMarkerAlt style={{fontSize:"20px"}}/>
           <p>Gurgaon, India</p>
         </div>
