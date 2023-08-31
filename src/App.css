@@ -1,0 +1,25 @@
+.profile-section {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 10px;
+}
+
+#profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.contact-section {
+  display: flex;
+  background-color: #80808017;
+  justify-content: space-around;
+  padding: 20px;
+}
+.badge{
+  background-color: #e0e0e0;
+  padding: 5px;
+  border-radius: 5px;
+}
