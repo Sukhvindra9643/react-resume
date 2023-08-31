@@ -6,7 +6,7 @@ function Profile() {
       <div style={{ width: "100%", margin: "auto"}}>
         <div className="profile-section">
           <div>
-            <img id="profile-img" src="./profile-img.png" alt="profile-img" />
+            <img id="profile-img" src="https://res.cloudinary.com/dk0o7tdks/image/upload/v1693501814/profile-img_bhfvqc.png" alt="profile-img" />
           </div>
           <div>
             <h1 style={{lineHeight:"0px",fontSize:"40px"}}>Sukhvindra Singh</h1>
